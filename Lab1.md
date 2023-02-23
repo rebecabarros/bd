@@ -3,7 +3,7 @@
 
 # Parte 1 - DDL
 
-Crie o banco de dados **Gravadora** e adicione as tabelas, incluindo as restrições de integridade (chave, referencial, domínio, vazio). 
+Crie um script SQL para a crição do banco de dados **Gravadora** e adicione as tabelas, incluindo as restrições de integridade (chave, referencial, domínio, vazio). Considere o tipo de dado **serial** sempre que se tratar de uma chave primária que não for também chave estrangeira. 
 
 O modelo de dados também está disponível na imagem abaixo.
 
@@ -19,7 +19,7 @@ O modelo de dados também está disponível na imagem abaixo.
 ![enter image description here](https://i.postimg.cc/hPKRh2SQ/q3.png)
 
 ### 4) Inclua linhas na tabela CD
-![enter image description here](https://i.postimg.cc/4dtRHM7V/cd.png)
+![enter image description here](https://i.postimg.cc/hvT081kf/tabelacd.png)
 
 ### 5) Inclua linhas na tabela Música
 ![enter image description here](https://i.postimg.cc/pX12bYyS/musica.png)
@@ -41,5 +41,5 @@ O modelo de dados também está disponível na imagem abaixo.
 
 ### 12) Exclua o compositor João Bosco
 
-### 13) Apague todos os cds da gravadora com id 1
+### 13) Apague todos os cds da gravadora com id 3
 
