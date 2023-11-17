@@ -1,4 +1,4 @@
-# Laboratório 1
+# Laboratório - Banco de Dados
 
 
 # Parte 1 - DDL
